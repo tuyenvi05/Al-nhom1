@@ -28,4 +28,4 @@ Chạy Smartphone1.ipynb
 
 Họ và tên: Vi Sỹ Tuyên
 
-Email: tuyennasen1@gmai.com
+Email: tuyennasen1@gmail.com
